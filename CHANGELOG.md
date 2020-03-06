@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [1.1.1](https://github.com/joaoulian/semver-poc/compare/v1.1.0...v1.1.1) (2020-03-06)
+
+
+### Bug Fixes
+
+* fix bug ([54cc57c](https://github.com/joaoulian/semver-poc/commit/54cc57c03d90ae58112fb34ac1f94be91e3fb1a2))
+
 # [1.1.0](https://github.com/joaoulian/semver-poc/compare/v1.0.0...v1.1.0) (2020-03-06)
 
 
