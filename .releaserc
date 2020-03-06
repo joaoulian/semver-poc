@@ -10,21 +10,14 @@
                 "changelogTitle": "# Semantic Versioning Changelog"
             }
         ],
+        ["@semantic-release/npm", {
+            "npmPublish": false,
+        }],
         [
             "@semantic-release/git",
             {
                 "assets": [
                     "CHANGELOG.md"
-                ]
-            }
-        ],
-        [
-            "@semantic-release/github",
-            {
-                "assets": [
-                    {
-                        "path": "dist/**"
-                    }
                 ]
             }
         ]
