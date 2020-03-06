@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.2.0](https://github.com/joaoulian/semver-poc/compare/v1.1.2...v1.2.0) (2020-03-06)
+
+
+### Features
+
+* **admin:** add new testfile ([db7e411](https://github.com/joaoulian/semver-poc/commit/db7e41126b1f2ec5fa6957266a81c6f5a2f53c48))
+
 ## [1.1.2](https://github.com/joaoulian/semver-poc/compare/v1.1.1...v1.1.2) (2020-03-06)
 
 
