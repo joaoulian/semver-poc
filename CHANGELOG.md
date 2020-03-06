@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [1.1.2](https://github.com/joaoulian/semver-poc/compare/v1.1.1...v1.1.2) (2020-03-06)
+
+
+### Performance Improvements
+
+* **admin:** refact ([278152e](https://github.com/joaoulian/semver-poc/commit/278152efcfba9bb2c50a0ee65335df5a5d2da2a1))
+
 ## [1.1.1](https://github.com/joaoulian/semver-poc/compare/v1.1.0...v1.1.1) (2020-03-06)
 
 
