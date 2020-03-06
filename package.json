@@ -1,0 +1,30 @@
+{
+  "name": "semver-poc",
+  "version": "1.0.0",
+  "description": "An automated semantic version POC basead on https://hodgkins.io/automating-semantic-versioning",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@semantic-release/changelog": "^5.0.0",
+    "@semantic-release/commit-analyzer": "^6.3.3",
+    "@semantic-release/exec": "^5.0.0",
+    "@semantic-release/git": "^7.0.18",
+    "@semantic-release/npm": "^5.3.5",
+    "@semantic-release/release-notes-generator": "^9.0.0",
+    "semantic-release": "^15.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaoulian/semver-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaoulian/semver-poc/issues"
+  },
+  "homepage": "https://github.com/joaoulian/semver-poc#readme"
+}
